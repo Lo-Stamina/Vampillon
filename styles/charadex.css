@@ -28,11 +28,11 @@ body {
   /* Backgrounds
   ================================================================ */
   --cd-body-background-color:            #3e4042;
-  --cd-content-background-color:         #565757;
+  --cd-content-background-color:         #2a2a2a;
   --cd-faded-background-color:           #f8f8f8;
 
   /* Background Extras */
-  --cd-body-background-image:             url();
+  --cd-body-background-image:             url(https://cdn.pixabay.com/photo/2022/03/27/17/22/background-7095674_1280.jpg);
 
   /* ============================================================= */
   /* Text
