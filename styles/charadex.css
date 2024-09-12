@@ -28,7 +28,7 @@ body {
   /* Backgrounds
   ================================================================ */
   --cd-body-background-color:            #3e4042;
-  --cd-content-background-color:         #2a2a2a;
+  --cd-content-background-color:         #7f7f7f;
   --cd-faded-background-color:           #f8f8f8;
 
   /* Background Extras */
@@ -51,7 +51,7 @@ body {
   /* ============================================================= */
   /* Navbar
   ================================================================ */
-  --cd-navbar-background-color:          #343434;
+  --cd-navbar-background-color:          #1e1e1e;
   --cd-navbar-brand-color:               var(--cd-primary-color);
   --cd-navbar-brand-color-hover:         var(--cd-secondary-color);
   --cd-navbar-text-color:                var(--cd-content-background-color);
