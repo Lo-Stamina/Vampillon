@@ -56,7 +56,7 @@ const scrubData = (sheetData) => {
 let optionSorter = (options) => {
 
     // Clean up the sheetID - in case they used a link instead
-    let scrubbedSheetId = sheetID ? sheetID.includes('/d/') ? sheetID.split('/d/')[1].split('/edit')[0] : sheetID : "1wmGjPj7PYhIQNZkizfd-98N4vgPZM_3IeLTufvWnHEY"
+    let scrubbedSheetId = sheetID ? sheetID.includes('/d/') ? sheetID.split('/d/')[1].split('/edit')[0] : sheetID : "1-j6FxRUscWaPzZ5C-Sx0te1sW6cw7Q1KNzIRvdtcNvs"
     // Call all options, make defaults of our own
     let userOptions = options;
     let defaultOptions = {
